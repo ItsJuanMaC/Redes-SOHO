@@ -9,6 +9,8 @@ Proyecto en Cisco Packet Tracer para simular la creacion de redes SOHO y servici
 ## Resumen
 Se diseñó, implementó y verificó una red SOHO utilizando Cisco Packet Tracer integrando conceptos de LAN, WLAN, VLAN, IPv4, subneteo, interconexión WAN y servicios de red.
 
+## Video
+https://youtu.be/Dcd6_Pc-mIQ
 ## Contenido del repositorio
 
 - [Acta1_lab2.docx](./Acta1_lab2.docx) — planificación inicial y distribución de responsabilidades.
